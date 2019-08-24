@@ -1,2 +1,2 @@
 # LeetCode
-LeetCode(python)
+LeetCode(python) 学习用...
